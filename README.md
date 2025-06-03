@@ -63,7 +63,7 @@ This project focuses on scraping book details from [Books to Scrape](http://book
 
 
 
-## ⚠ Error Handling
+##  Error Handling
 
 | Type                     | Handling Strategy                                                              |
 |--------------------------|---------------------------------------------------------------------------------|
